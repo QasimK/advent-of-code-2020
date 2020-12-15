@@ -5,3 +5,4 @@ authors = ["QasimK <noreply@QasimK.io>"]
 edition = "2018"
 
 [dependencies]
+regex = "^1.4.2"
